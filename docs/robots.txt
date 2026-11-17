@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pol-corsin.github.io/descubrenepal/sitemap.xml
+Sitemap: https://abde4777.github.io/descubrir-nepal/sitemap.xml
