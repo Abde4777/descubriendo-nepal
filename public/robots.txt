@@ -1,6 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://www.descubrenepal.com/sitemap.xml
-
-Disallow: /private/
+Sitemap: https://pol-corsin.github.io/descubrenepal/sitemap.xml
