@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abde4777.github.io/descubrir-nepal/sitemap.xml
-
-Disallow: /private/
+Sitemap: https://descubrir-nepal.vercel.app/sitemap.xml
