@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://descubriendo-nepal.vercel.app/sitemap.xml
+Sitemap: https://abde4777.github.io/descubrir-nepal/sitemap.xml
