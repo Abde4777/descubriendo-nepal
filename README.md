@@ -1,5 +1,5 @@
 # web-SEO
-Practica pagina estatica SEO
+Practica pagina estatica SEO.
 
 
 # ENUN
