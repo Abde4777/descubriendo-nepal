@@ -1,20 +1,19 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
     <url>
-        <loc>https://abde4777.github.io/descubrir-nepal/</loc>
+        <loc>https://descubriendo-nepal.vercel.app/</loc>
+        <priority>1.0</priority>
     </url>
-
     <url>
-        <loc>https://abde4777.github.io/descubrir-nepal/turismo.html</loc>
+        <loc>https://descubriendo-nepal.vercel.app/turismo.html</loc>
+        <priority>0.8</priority>
     </url>
-
     <url>
-        <loc>https://abde4777.github.io/descubrir-nepal/gastronomia.html</loc>
+        <loc>https://descubriendo-nepal.vercel.app/gastronomia.html</loc>
+        <priority>0.8</priority>
     </url>
-
     <url>
-        <loc>https://abde4777.github.io/descubrir-nepal/costumbres.html</loc>
+        <loc>https://descubriendo-nepal.vercel.app/costumbres.html</loc>
+        <priority>0.8</priority>
     </url>
-
 </urlset>
